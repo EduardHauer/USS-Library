@@ -1,0 +1,6 @@
+c:\users\asus r556ub\source\repos\USS\USS\bin\Debug\USS.dll
+c:\users\asus r556ub\source\repos\USS\USS\bin\Debug\USS.pdb
+c:\users\asus r556ub\source\repos\USS\USS\obj\Debug\USS-Library.csprojResolveAssemblyReference.cache
+c:\users\asus r556ub\source\repos\USS\USS\obj\Debug\USS-Library.csproj.CoreCompileInputs.cache
+c:\users\asus r556ub\source\repos\USS\USS\obj\Debug\USS.dll
+c:\users\asus r556ub\source\repos\USS\USS\obj\Debug\USS.pdb
