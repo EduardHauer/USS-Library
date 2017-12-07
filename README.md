@@ -34,3 +34,28 @@ It's Library of USS Language
   }
   
 } %f
+# How To Create
+%s [name].uss = {
+
+  [name] = [value]
+  
+  ...
+  
+}
+
+//
+
+[name] = [(numbers & )letters]
+
+[name] != [symbols]
+
+//
+
+[value] = [" & letters &"], [nubers]
+
+[value] != [letters], [symbols]
+
+//
+
+extra : 
+  [value] = { ... }
